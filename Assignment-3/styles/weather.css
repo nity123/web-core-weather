@@ -1,0 +1,16 @@
+body {
+  background: url('img/cloud-blue-sky.jpg') no-repeat center center fixed;
+}
+
+.main {
+  border: 2px solid black;
+}
+
+.card-body {
+  background: linear-gradient(to right, aliceblue, rgb(167, 219, 202));
+}
+
+.back {
+  width: 60px;
+  
+}

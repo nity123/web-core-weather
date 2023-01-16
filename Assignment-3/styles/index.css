@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background: url("img/1540005.jpg") no-repeat center center fixed;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h3 {
+  border: 2px solid black;
+  background: transparent;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10%;
+}
+.card {
+  background-color: rgb(205, 240, 240);
+}
